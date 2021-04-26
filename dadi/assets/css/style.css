@@ -1,0 +1,13 @@
+.wrapper {
+  background-image: url(https://image.winudf.com/v2/image/Y29tLnN2ZXRzdWJiei5XYWxscGFwZXJzUG9rZXJDYXNpbm9fc2NyZWVuc2hvdHNfM19jNzg4MTkyOA/screen-3.jpg?fakeurl=1&type=.jpg);
+  background-size: cover;
+}
+
+.square {
+  width: 300px;
+  height: 300px;
+}
+
+h2 {
+  min-width: 500px;
+}
